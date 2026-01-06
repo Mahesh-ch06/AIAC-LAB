@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=600&lines=AI+Assisted+Coding+Lab;Initializing+Repository...;Status:+1+Assignment+Active;User:+Mahesh-ch06" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=600&lines=AI+Assisted+Coding+Lab;Status:+Exp-01+Running...;Progress:+4%25+Completed;User:+Mahesh-ch06" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -8,26 +8,39 @@
 
 <div align="center">
 
-  [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=git)](https://github.com/Mahesh-ch06/AIAC-LAB)
-  [![Assignments](https://img.shields.io/badge/Progress-1%20Active-orange?style=for-the-badge&logo=github)](https://github.com/Mahesh-ch06/AIAC-LAB)
-  [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/Mahesh-ch06/AIAC-LAB)
+  [![Status](https://img.shields.io/badge/Status-Active_Development-orange?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Mahesh-ch06/AIAC-LAB)
+  [![Assignments](https://img.shields.io/badge/Milestone-1%2F24_Running-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahesh-ch06/AIAC-LAB)
+  [![License](https://img.shields.io/badge/License-MIT-afa?style=for-the-badge)](https://github.com/Mahesh-ch06/AIAC-LAB)
 
 </div>
 
 <br />
 
+---
+
 <div align="center">
-  <h3>🚧 Course Progress 🚧</h3>
-  <img src="https://geps.dev/progress/2" alt="Progress Bar" />
+
+### 📊 Project Status Dashboard
+
+| **Completed** | **In Progress** | **Pending** | **Global Progress** |
+|:---:|:---:|:---:|:---:|
+| ![Completed](https://img.shields.io/badge/0-green?style=for-the-badge&logo=github-actions&logoColor=white) | ![In Progress](https://img.shields.io/badge/1-orange?style=for-the-badge&logo=fire&logoColor=white) | ![Pending](https://img.shields.io/badge/23-red?style=for-the-badge&logo=clockify&logoColor=white) | ![Percent](https://img.shields.io/badge/4%25-blue?style=for-the-badge&logo=azure-devops&logoColor=white) |
+
+<br>
+
+<img src="https://geps.dev/progress/4?dangerColor=d9534f&warningColor=f0ad4e&successColor=5cb85c" width="85%" alt="Progress Bar" />
+
+<p>Currently focusing on: <b>Experiment 01 Basics</b></p>
+
 </div>
 
 ---
 
 ## ⚡ About This Workspace
 
-This repository serves as the central hub for the **AI Assisted Coding (AIAC)** laboratory. It documents the journey of integrating Large Language Models (LLMs) into the software development lifecycle.
+This repository serves as the central hub for the **AI Assisted Coding (AIAC)** laboratory. It documents the comprehensive journey of integrating Large Language Models (LLMs), prompt engineering, and AI-driven development tools into the software lifecycle.
 
-**Current Objective:** Executing 24 varied experiments ranging from prompt engineering to full-stack AI integration.
+**Objective:** Execute 24 varied experiments, moving from foundational concepts to advanced AI system integration.
 
 ---
 
@@ -35,15 +48,19 @@ This repository serves as the central hub for the **AI Assisted Coding (AIAC)** 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,vscode,github,git,md,pytorch,tensorflow&theme=dark" />
+  <br>
+  <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </div>
 
 ---
 
 ## 📂 Laboratory Roadmap
 
-| ID | Assignment Module | Completion Status | Access |
+| ID | Assignment Module | Completion Status | Access Link |
 |:--:|:--- |:---:|:---:|
-| 01 | **Experiment 01** | 🚧 In Progress | [Working...] |
+| 01 | **Experiment 01** | 🚧 In Progress | [Building...] |
 | 02 | **Experiment 02** | ⏳ Pending | [—] |
 | 03 | **Experiment 03** | ⏳ Pending | [—] |
 | 04 | **Experiment 04** | ⏳ Pending | [—] |
