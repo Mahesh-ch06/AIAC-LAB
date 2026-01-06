@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+Assisted+Coding;Course+Assignments+%26+Labs;Generative+AI+%26+LLMs;Python+%7C+LangChain+%7C+OpenAI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Assisted+Coding+(AIAC);Laboratory+Record;24+Assignments+Completed;By+Mahesh-ch06" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ4eWl6eGx4bnZ4eWl6eGx4bnZ4eWl6eGx4bnZ4eWl6eGwmaQ9naWZzX3RyZW5kaW5nJmN0PWc/KyCf3N88d3h2j0qD7U/giphy.gif" width="600" height="auto"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="auto"/>
 </div>
 
 <div align="center">
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/ai-assisted-coding.svg)](https://GitHub.com/your-username/ai-assisted-coding/issues/)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/ai-assisted-coding?color=red&style=plastic)
+[![Repo Size](https://img.shields.io/github/repo-size/Mahesh-ch06/AIAC-LAB?style=for-the-badge&color=blue)](https://github.com/Mahesh-ch06/AIAC-LAB)
+[![Last Commit](https://img.shields.io/github/last-commit/Mahesh-ch06/AIAC-LAB?style=for-the-badge&color=red)](https://github.com/Mahesh-ch06/AIAC-LAB/commits/main)
+[![License](https://img.shields.io/github/license/Mahesh-ch06/AIAC-LAB?style=for-the-badge&color=green)](https://github.com/Mahesh-ch06/AIAC-LAB/blob/main/LICENSE)
 
 </div>
 
@@ -18,63 +18,66 @@
 
 ## 👨‍💻 About The Repository
 
-Welcome to my **AI Assisted Coding** submission repository! 🚀
-This repository contains all the practical assignments, lab records, and code snippets developed during the course.
+Welcome to the **AI Assisted Coding (AIAC) Laboratory**. 🚀
+This repository serves as a comprehensive record of all **24 assignments** completed during the course. It explores various aspects of Generative AI, LLMs, Prompt Engineering, and automated software development.
 
-* **Focus:** Leveraging AI tools (Copilot, ChatGPT, Gemini) to optimize coding workflows.
-* **Goal:** To demonstrate proficiency in prompt engineering, automated debugging, and code generation.
+* **Student:** Mahesh-ch06
+* **Course:** AI Assisted Coding
+* **Total Experiments:** 24
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,vscode,github,git,md&theme=dark" />
   <br>
   <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </div>
 
 ---
 
-## 📂 Assignment Directory
+## 📂 Laboratory Experiments Index
 
-| # | Assignment Name | Description | Status | Link |
-|:-:|:--- |:--- |:---:|:---:|
-| 01 | **Prompt Engineering Basics** | Introduction to zero-shot and few-shot prompting. | ✅ | [View](./Assignment_01) |
-| 02 | **Code Refactoring with AI** | Optimizing legacy Python code using LLMs. | ✅ | [View](./Assignment_02) |
-| 03 | **Automated Unit Testing** | Generating PyTest cases using AI assistants. | 🚧 | [View](./Assignment_03) |
-| 04 | **Documentation Generation** | Using AI to generate Docstrings and Readmes. | ⏳ | [View](./Assignment_04) |
-| 05 | **RAG Implementation** | Building a basic Retrieval Augmented Generation pipeline. | ⏳ | [View](./Assignment_05) |
+| # | Assignment Title | Status | Link |
+|:-:|:--- |:---:|:---:|
+| 01 | **Experiment 01** | ✅ | [View](./Exp_01) |
+| 02 | **Experiment 02** | ✅ | [View](./Exp_02) |
+| 03 | **Experiment 03** | ✅ | [View](./Exp_03) |
+| 04 | **Experiment 04** | ✅ | [View](./Exp_04) |
+| 05 | **Experiment 05** | ✅ | [View](./Exp_05) |
+| 06 | **Experiment 06** | ✅ | [View](./Exp_06) |
+| 07 | **Experiment 07** | ✅ | [View](./Exp_07) |
+| 08 | **Experiment 08** | ✅ | [View](./Exp_08) |
+| 09 | **Experiment 09** | ✅ | [View](./Exp_09) |
+| 10 | **Experiment 10** | ✅ | [View](./Exp_10) |
+| 11 | **Experiment 11** | ✅ | [View](./Exp_11) |
+| 12 | **Experiment 12** | ✅ | [View](./Exp_12) |
+| 13 | **Experiment 13** | ✅ | [View](./Exp_13) |
+| 14 | **Experiment 14** | ✅ | [View](./Exp_14) |
+| 15 | **Experiment 15** | ✅ | [View](./Exp_15) |
+| 16 | **Experiment 16** | ✅ | [View](./Exp_16) |
+| 17 | **Experiment 17** | ✅ | [View](./Exp_17) |
+| 18 | **Experiment 18** | ✅ | [View](./Exp_18) |
+| 19 | **Experiment 19** | ✅ | [View](./Exp_19) |
+| 20 | **Experiment 20** | ✅ | [View](./Exp_20) |
+| 21 | **Experiment 21** | ✅ | [View](./Exp_21) |
+| 22 | **Experiment 22** | ✅ | [View](./Exp_22) |
+| 23 | **Experiment 23** | ✅ | [View](./Exp_23) |
+| 24 | **Experiment 24** | ✅ | [View](./Exp_24) |
 
-> **Key:** ✅ = Completed | 🚧 = In Progress | ⏳ = Pending
+> **Note:** Click on "View" to navigate to the specific code folder.
 
 ---
 
-## 🚀 How to Run
-
-Most assignments are written in Python. To run them locally:
-
-1.  **Clone the Repo:**
-    ```bash
-    git clone [https://github.com/your-username/ai-assisted-coding.git](https://github.com/your-username/ai-assisted-coding.git)
-    ```
-2.  **Navigate to the folder:**
-    ```bash
-    cd Assignment_01
-    ```
-3.  **Run the script:**
-    ```bash
-    python main.py
-    ```
-
----
-
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-ch06&show_icons=true&theme=radical&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-ch06&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
