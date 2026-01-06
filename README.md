@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=600&lines=AI+Assisted+Coding+Lab;Initializing+Repository...;Status:+0%25+Completed;User:+Mahesh-ch06" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=600&lines=AI+Assisted+Coding+Lab;Initializing+Repository...;Status:+1+Assignment+Active;User:+Mahesh-ch06" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -8,8 +8,8 @@
 
 <div align="center">
 
-  [![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge&logo=git)](https://github.com/Mahesh-ch06/AIAC-LAB)
-  [![Assignments](https://img.shields.io/badge/Assignments-0%2F24-red?style=for-the-badge&logo=github)](https://github.com/Mahesh-ch06/AIAC-LAB)
+  [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=git)](https://github.com/Mahesh-ch06/AIAC-LAB)
+  [![Assignments](https://img.shields.io/badge/Progress-1%20Active-orange?style=for-the-badge&logo=github)](https://github.com/Mahesh-ch06/AIAC-LAB)
   [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/Mahesh-ch06/AIAC-LAB)
 
 </div>
@@ -18,7 +18,7 @@
 
 <div align="center">
   <h3>🚧 Course Progress 🚧</h3>
-  <img src="https://geps.dev/progress/0" alt="Progress Bar" />
+  <img src="https://geps.dev/progress/2" alt="Progress Bar" />
 </div>
 
 ---
@@ -43,7 +43,7 @@ This repository serves as the central hub for the **AI Assisted Coding (AIAC)** 
 
 | ID | Assignment Module | Completion Status | Access |
 |:--:|:--- |:---:|:---:|
-| 01 | **Experiment 01** | ⏳ Pending | [—] |
+| 01 | **Experiment 01** | 🚧 In Progress | [Working...] |
 | 02 | **Experiment 02** | ⏳ Pending | [—] |
 | 03 | **Experiment 03** | ⏳ Pending | [—] |
 | 04 | **Experiment 04** | ⏳ Pending | [—] |
