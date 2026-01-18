@@ -1,0 +1,2 @@
+I am writing a brief story about myself while automating file operations.
+The program creates a text file, writes a sample message, then reads and displays it.
