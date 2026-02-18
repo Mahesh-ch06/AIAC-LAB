@@ -16,12 +16,8 @@
 
 <br/><br/>
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mahesh-ch06/Mahesh-ch06/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mahesh-ch06/Mahesh-ch06/blob/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://github.com/Mahesh-ch06/Mahesh-ch06/blob/output/github-snake-dark.svg" />
-</picture>
+<!-- Animated Coding GIF -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 
 </div>
 
