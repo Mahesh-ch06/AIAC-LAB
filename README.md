@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d47a1&height=220&section=header&text=AI%20Assisted%20Coding&fontSize=48&fontColor=58a6ff&fontAlignY=35&animation=fadeIn&desc=Laboratory%20%7C%20Python%20Fundamentals%20to%20Advanced%20Concepts&descSize=18&descAlignY=55&descColor=8b949e" />
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%AC+9+Assignments+%7C+60%2B+Programs+%7C+1+Lab+Test;%F0%9F%9A%80+From+Loops+to+OOP+to+Testing+%26+Beyond;%F0%9F%A4%96+AI-Powered+Development+Workflow" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%F0%9F%94%AC+24+Assignments+%7C+60%2B+Programs+%7C+1+Lab+Test;%F0%9F%9A%80+From+Loops+to+OOP+to+Testing+%26+Beyond;%F0%9F%A4%96+AI-Powered+Development+Workflow" alt="Typing SVG" />
 
 <br/>
 
@@ -36,16 +36,18 @@
 <div align="center">
 <table>
 <tr>
-<td align="center"><b>📊 Assignments</b></td>
+<td align="center"><b>📊 Total Assignments</b></td>
+<td align="center"><b>✅ Completed</b></td>
+<td align="center"><b>🚧 In Progress</b></td>
 <td align="center"><b>📝 Total Programs</b></td>
 <td align="center"><b>🧪 Lab Tests</b></td>
-<td align="center"><b>📚 Topics Covered</b></td>
 </tr>
 <tr>
-<td align="center"><code>9</code></td>
+<td align="center"><code>24</code></td>
+<td align="center"><code>8</code></td>
+<td align="center"><code>1</code></td>
 <td align="center"><code>60+</code></td>
 <td align="center"><code>1</code></td>
-<td align="center"><code>10+</code></td>
 </tr>
 </table>
 </div>
@@ -86,11 +88,37 @@
 | **06** | **Modules & Regex** | `re` module, mobile filtering, nested dicts, complexity | 10 | ✅ Done | [View →](./Assigment6) |
 | **07** | **Debugging & Memory** | Bug analysis, `id()`, shallow/deep copy, scoping | 1 | ✅ Done | [View →](./Assigment7) |
 | **08** | **Doctest & Assertions** | `doctest`, `assert`, test-driven validation | 13 | ✅ Done | [View →](./Assigment8) |
-| **09** | **Input Validation** | Custom validators, username checks, classification | 2 | ✅ Done | [View →](./Assigment9) |
+| **09** | **Input Validation** | Custom validators, username checks, classification | 3 | 🚧 In Progress | [View →](./Assigment9) |
 
 </div>
 
+<details>
+<summary><b>&nbsp;📋 Upcoming Assignments (10 – 24)</b></summary>
 <br/>
+
+<div align="center">
+
+| # | Module | Status | Link |
+|:-:|:-------|:------:|:----:|
+| **10** | *Coming Soon* | ⏳ Pending | — |
+| **11** | *Coming Soon* | ⏳ Pending | — |
+| **12** | *Coming Soon* | ⏳ Pending | — |
+| **13** | *Coming Soon* | ⏳ Pending | — |
+| **14** | *Coming Soon* | ⏳ Pending | — |
+| **15** | *Coming Soon* | ⏳ Pending | — |
+| **16** | *Coming Soon* | ⏳ Pending | — |
+| **17** | *Coming Soon* | ⏳ Pending | — |
+| **18** | *Coming Soon* | ⏳ Pending | — |
+| **19** | *Coming Soon* | ⏳ Pending | — |
+| **20** | *Coming Soon* | ⏳ Pending | — |
+| **21** | *Coming Soon* | ⏳ Pending | — |
+| **22** | *Coming Soon* | ⏳ Pending | — |
+| **23** | *Coming Soon* | ⏳ Pending | — |
+| **24** | *Coming Soon* | ⏳ Pending | — |
+
+</div>
+
+</details>
 
 <details>
 <summary><b>&nbsp;🧪 Lab Tests</b></summary>
@@ -109,8 +137,8 @@
 
 ```
  Overall Progress
- ██████████████████████████████████████████████  100%  ✨
- ┗━━ 9/9 Assignments  ━━  1/1 Lab Tests ━━┛
+ ████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  33%   🚀
+ ┗━━ 8/24 Done  ━━  1 In Progress  ━━  15 Pending ━━┛
 ```
 
 </div>
