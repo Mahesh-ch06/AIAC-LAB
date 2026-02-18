@@ -16,11 +16,11 @@
 
 <br/><br/>
 
-<!-- Snake Animation — eats your green contribution dots & grows! -->
+<!-- Snake Animation — eats green contribution dots & grows! -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahesh-ch06/AIAC-LAB/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahesh-ch06/AIAC-LAB/output/github-snake.svg" />
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Mahesh-ch06/AIAC-LAB/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating contributions" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
